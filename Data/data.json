@@ -1,0 +1,11 @@
+{
+  "data":{
+    "example":"this is an example",
+    "content":{
+      "title":"Example Title",
+      "description":"This is a fake piece of content",
+      "uri": "www.notawebsite.com",
+      "thumbnail": "www.notawebsite.com/notathumbnail"
+    }
+  }
+}
